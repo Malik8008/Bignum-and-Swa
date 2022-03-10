@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Substitution\Substitution\bin\Debug\netcoreapp3.1\Substitution.exe
+C:\Users\Admin\source\repos\Substitution\Substitution\bin\Debug\netcoreapp3.1\Substitution.deps.json
+C:\Users\Admin\source\repos\Substitution\Substitution\bin\Debug\netcoreapp3.1\Substitution.runtimeconfig.json
+C:\Users\Admin\source\repos\Substitution\Substitution\bin\Debug\netcoreapp3.1\Substitution.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Substitution\Substitution\bin\Debug\netcoreapp3.1\Substitution.dll
+C:\Users\Admin\source\repos\Substitution\Substitution\bin\Debug\netcoreapp3.1\Substitution.pdb
+C:\Users\Admin\source\repos\Substitution\Substitution\obj\Debug\netcoreapp3.1\Substitution.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Substitution\Substitution\obj\Debug\netcoreapp3.1\Substitution.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Substitution\Substitution\obj\Debug\netcoreapp3.1\Substitution.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Substitution\Substitution\obj\Debug\netcoreapp3.1\Substitution.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Substitution\Substitution\obj\Debug\netcoreapp3.1\Substitution.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Substitution\Substitution\obj\Debug\netcoreapp3.1\Substitution.dll
+C:\Users\Admin\source\repos\Substitution\Substitution\obj\Debug\netcoreapp3.1\Substitution.pdb
+C:\Users\Admin\source\repos\Substitution\Substitution\obj\Debug\netcoreapp3.1\Substitution.genruntimeconfig.cache
