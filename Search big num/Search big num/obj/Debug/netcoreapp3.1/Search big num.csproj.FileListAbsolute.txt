@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\Search big num\Search big num\bin\Debug\netcoreapp3.1\Search big num.exe
+C:\Users\Admin\source\repos\Search big num\Search big num\bin\Debug\netcoreapp3.1\Search big num.deps.json
+C:\Users\Admin\source\repos\Search big num\Search big num\bin\Debug\netcoreapp3.1\Search big num.runtimeconfig.json
+C:\Users\Admin\source\repos\Search big num\Search big num\bin\Debug\netcoreapp3.1\Search big num.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\Search big num\Search big num\bin\Debug\netcoreapp3.1\Search big num.dll
+C:\Users\Admin\source\repos\Search big num\Search big num\bin\Debug\netcoreapp3.1\Search big num.pdb
+C:\Users\Admin\source\repos\Search big num\Search big num\obj\Debug\netcoreapp3.1\Search big num.csproj.AssemblyReference.cache
+C:\Users\Admin\source\repos\Search big num\Search big num\obj\Debug\netcoreapp3.1\Search big num.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Search big num\Search big num\obj\Debug\netcoreapp3.1\Search big num.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Search big num\Search big num\obj\Debug\netcoreapp3.1\Search big num.AssemblyInfo.cs
+C:\Users\Admin\source\repos\Search big num\Search big num\obj\Debug\netcoreapp3.1\Search big num.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Search big num\Search big num\obj\Debug\netcoreapp3.1\Search big num.dll
+C:\Users\Admin\source\repos\Search big num\Search big num\obj\Debug\netcoreapp3.1\Search big num.pdb
+C:\Users\Admin\source\repos\Search big num\Search big num\obj\Debug\netcoreapp3.1\Search big num.genruntimeconfig.cache
